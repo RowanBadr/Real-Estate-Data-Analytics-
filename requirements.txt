@@ -1,0 +1,10 @@
+pandas
+numpy
+beautifulsoup4
+requests
+lxml
+fuzzywuzzy
+python-Levenshtein
+scipy
+matplotlib
+seaborn
