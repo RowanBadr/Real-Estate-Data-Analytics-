@@ -1,6 +1,6 @@
 # Real Estate Data Analytics: Empowering Informed Investment Decisions
 
-##📌 Project Overview
+## 📌 Project Overview
 This project addresses the challenges of market volatility and information overload in the real estate sector. By leveraging a full data science lifecycle—from automated web scraping to interactive visualization—it provides stakeholders with data-driven insights to mitigate risks and identify high-value investment opportunities.
 
 ## ✨ Key Features
@@ -9,7 +9,7 @@ This project addresses the challenges of market volatility and information overl
 * **Market Segmentation**: Statistical refinement of datasets using `scipy.stats` to identify outliers and categorize property types.
 * **Interactive Dashboards**: High-density heatmaps and property density charts created in **Power BI** to visualize market trends across Dubai.
 
-## 📁Technical Workflow
+## 📁 Technical Workflow
 The project follows a structured seven-step methodology:
 1.  **Data Scraping**: Targeted extraction of price, size, and location data.
 2.  **Data Cleaning**: Standardizing units, handling missing values, and stripping whitespace.
